@@ -1,9 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "employee": [
+        {
+            "id": 1,
+            "name": "Aakash",
+            "description": "He is a good man!"
+        },
+        {
+            "id": 2,
+            "name": "Manjeet",
+            "description": "Jupiter is the planet where he's from! He's ALIEN!!"
+        },
+        {
+            "id": 3,
+            "name": "Baggu",
+            "description": "Singer hai Bhai mera! A gym freak!!"
+        },
+        {
+            "id": 4,
+            "name": "Upa",
+            "description": "Aashiq hai apne group ka! He's still searching for the ONE!!"
+        }
+    ]
 }
